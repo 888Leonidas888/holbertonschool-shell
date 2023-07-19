@@ -4,3 +4,4 @@ COMANDOS DE SHELL
 ls : Este comando lista el directorio actual.
 cd : este comando sirve para cambia de directorio
 ls -l : Volvemos a repetir este comando pero esta vez usamos una bandera lista en formato largo.
+ls -la,ls -l -a : lista el directorio mostrando los archivos ocultos.
