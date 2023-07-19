@@ -2,3 +2,4 @@ COMANDOS DE SHELL
 
 '#!/bin/bash : Este comando indica qu ese va ejecutar con el programa bash
 ls : Este comando lista el directorio actual.
+cd : este comando sirve para cambia de directorio
