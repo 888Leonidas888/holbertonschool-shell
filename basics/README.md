@@ -8,3 +8,4 @@ ls -la,ls -l -a : lista el directorio mostrando los archivos ocultos.
 ls -lan : este comando lista en formato largo,muestra los archivos ocultos y tambien enumera los ID de usuarios y grupos.
 mkdir : Este comando sirve para crear directorios.
 mv : Este comando sirve para mover o renombrar.
+rm : Use este comando para remover archivos o directorios vacios
