@@ -14,4 +14,5 @@ ln -s : este comando crea un link simbolico hacia un archivo.
 cp -u *.html .. : Este comando copia del directorio actual todos los archivos con extensión .html al directorio padre que se hayan actualizado.
 mv [[:upper:]]* .. : este comando mueve todos los arhivos que empeizen con la letar mayusculaal directotio padre.
 rm *~ : elimina todos los archivos y directorios que terminan por ~.
+mkdir -p [d/u/h] : este comando crea de manera recursiva los tres directorios.
 
