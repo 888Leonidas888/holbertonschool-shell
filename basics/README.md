@@ -12,3 +12,5 @@ rm : Use este comando para remover archivos o directorios vacios
 cd .. : agregando los 2 puntos nos permie subir un directorio.
 ln -s : este comando crea un link simbolico hacia un archivo.
 cp -u *.html .. : Este comando copia del directorio actual todos los archivos con extensión .html al directorio padre que se hayan actualizado.
+mv [[:upper:]]* .. : este comando mueve todos los arhivos que empeizen con la letar mayusculaal directotio padre.
+
