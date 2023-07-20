@@ -10,3 +10,4 @@ mkdir : Este comando sirve para crear directorios.
 mv : Este comando sirve para mover o renombrar.
 rm : Use este comando para remover archivos o directorios vacios
 cd .. : agregando los 2 puntos nos permie subir un directorio.
+ln -s : este comando crea un link simbolico hacia un archivo.
