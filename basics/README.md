@@ -9,3 +9,4 @@ ls -lan : este comando lista en formato largo,muestra los archivos ocultos y tam
 mkdir : Este comando sirve para crear directorios.
 mv : Este comando sirve para mover o renombrar.
 rm : Use este comando para remover archivos o directorios vacios
+cd .. : agregando los 2 puntos nos permie subir un directorio.
