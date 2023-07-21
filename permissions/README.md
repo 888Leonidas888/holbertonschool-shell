@@ -6,3 +6,4 @@ chown [user] [file] : cambia de propietario a un archivo.
 chmod 774 [file] : se otorga permisos multiples a un archivo.
 chmod ugo+x [file] :se otorga permisos de ejecutar al usuario, grupo y otros.
 chmod mode [file] : este comando aplica los comandos al archivo especificado.
+se creo script para copiar el modo al archivo olleh.
