@@ -10,3 +10,4 @@ se creo script para copiar el modo al archivo olleh.
 chmod -R : el siguiente comando aplica comando recursiva
 mkdir -m : use este comando para crear directorio[s] si no existen y si ademas le agregas el flag -m otorgas permisos similar a chmod.
 chgrp [grupo] [file] :este comando cambia de grupo al archivo
+chown vicent:staff . : Este comando cambia de propietario y propietario de grupo para el directorio actual.
