@@ -13,4 +13,11 @@
 			<dd>Este comando sirve para mostrar el contenido de un archivo en la salida estandar.</dd>
 		</dl>
 	</li>
+	<li>
+		<dl>
+			<dt>echo "\"(Ôo)'"</dt>
+			<dd>Estamos usando echo conbinando con un caracter de escape (\), para indicar que se imprima las comillas dobles (").</dd>
+		</dl>
+	</li>
+
 </ul>
