@@ -31,5 +31,11 @@
 			<dd>Este comando muestra las 10 ultimas líneas de un archivo.</dd>
 		</dl>
 	</li>
+	<li>
+		<dl>
+			<dt>head</dt>
+			<dd>Este comando muestra las 10 primeras líneas de un archivo</dd>
+		</dl>
+	</li>
 
 </ul>
