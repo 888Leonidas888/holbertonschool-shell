@@ -3,7 +3,7 @@
 <ul>
 	<li>
 		<dl>
-			<dt><a herf='./0-hello_world'>echo</a></dt>
+			<dt><a href='./0-hello_world'>echo</a></dt>
 			<dd>Este comando sirve para imprimir una línea en la salida estandar.</dd>
 		</dl>
 	</li>
