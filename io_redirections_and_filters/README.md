@@ -23,10 +23,13 @@
 		<dl>
 			<dt>cat /etc/passwd /etc/hosts 2>1</dt>
 			<dd>Este comando lee el contenido de los archivos tanto de passwd como de hosts y los errores los muestra en la salida standar.(se reprepresenta con 0 la entrada standar,con 1 la salida standar y con 2 la salida de errores).</dd>
-		</dl>
-
-
+		</dl> 
 	</li>
-
+	<li>
+		<dl>
+			<dt>tail</dt>
+			<dd>Este comando muestra las 10 ultimas líneas de un archivo.</dd>
+		</dl>
+	</li>
 
 </ul>
