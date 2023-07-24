@@ -4,7 +4,13 @@
 	<li>
 		<dl>
 			<dt>echo</dt>
-			<dd>este comanso sirve para imprimir una línea en la salida estandar.</dd>
+			<dd>Este comando sirve para imprimir una línea en la salida estandar.</dd>
+		</dl>
+	</li>
+	<li>
+		<dl>
+			<dt>cat</dt>
+			<dd>Este comando sirve para mostrar el contenido de un archivo en la salida estandar.</dd>
 		</dl>
 	</li>
 </ul>
