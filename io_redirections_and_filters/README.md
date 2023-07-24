@@ -14,10 +14,19 @@
 		</dl>
 	</li>
 	<li>
-		<dl>
+		<dl> 
 			<dt>echo "\"(Ôo)'"</dt>
 			<dd>Estamos usando echo conbinando con un caracter de escape (\), para indicar que se imprima las comillas dobles (").</dd>
 		</dl>
 	</li>
+	<li>
+		<dl>
+			<dt>cat /etc/passwd /etc/hosts 2>1</dt>
+			<dd>Este comando lee el contenido de los archivos tanto de passwd como de hosts y los errores los muestra en la salida standar.(se reprepresenta con 0 la entrada standar,con 1 la salida standar y con 2 la salida de errores).</dd>
+		</dl>
+
+
+	</li>
+
 
 </ul>
