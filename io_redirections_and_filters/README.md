@@ -55,4 +55,10 @@
 			<dd>Este comando lee la última línea del archivo iacta y redirecciona la salida estandar al archivoal mismo archivo iacta pero al usar doble signo del mayor que (>>) esta agregando al contendio del mismo.</dd>
 		</dl>
 	</li>
+	<li>
+		<dl>
+			<dt><a href='./10-no_more_js'>find . -type f -name "*.js" | xargs rm</a></dt>
+			<dd>Este comando busca de manera recursiva todos los archivos con estensión .js y los redirige a la entrada estandar del comando rm para que los elimine,para que rm tome el resultado del coamndo find usamos xargs.</dd> 
+		</dl>
+	</li>
 </ul>
