@@ -50,4 +50,10 @@
 			<dd>Este comando redirecciona la salida standar hacia un archivo llamado ls_cwd_content</dd>
 		</dl>
 	</li>
+	<li>
+		<dl>
+			<dt><a href='./9-duplicate_last_line'>tail -n 1 iacta >> iacta</a></dt>
+			<dd>Este comando lee la última línea del archivo iacta y redirecciona la salida estandar al archivoal mismo archivo iacta pero al usar doble signo del mayor que (>>) esta agregando al contendio del mismo.</dd>
+		</dl>
+	</li>
 </ul>
