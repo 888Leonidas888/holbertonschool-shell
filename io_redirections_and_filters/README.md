@@ -5,7 +5,7 @@
 		<dl>
 			<dt><a href='./0-hello_world'>echo</a></dt>
 			<dd>Este comando sirve para imprimir una línea en la salida estandar.</dd>
-		</dl>
+		</dl> 
 	</li>
 	<li>
 		<dl>
@@ -43,5 +43,11 @@
 			<dd>Este comando lee las 3 primeras líneas del archivo iacta y se las pasa como entrada estandar al comando tail que lee solo una línea</dd>
 
 		<dl>
+	</li>
+	<li>
+		<dl>
+			<dt><a herf='./8-cwd_state'>ls -la > ls_cwd_content</a></dt>
+			<dd>Este comando redirecciona la salida standar hacia un archivo llamado ls_cwd_content</dd>
+		</dl>
 	</li>
 </ul>
