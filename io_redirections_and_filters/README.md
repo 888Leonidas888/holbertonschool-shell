@@ -42,7 +42,7 @@
 			<dt><a href='./6-third_line'>head -n 3 iacta | tail -n 1</a></dt>
 			<dd>Este comando lee las 3 primeras líneas del archivo iacta y se las pasa como entrada estandar al comando tail que lee solo una línea</dd>
 
-		<dl>
+		</dl>
 	</li>
 	<li>
 		<dl>
