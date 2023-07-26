@@ -61,4 +61,11 @@
 			<dd>Este comando busca de manera recursiva todos los archivos con estensión .js y los redirige a la entrada estandar del comando rm para que los elimine,para que rm tome el resultado del coamndo find usamos xargs.</dd> 
 		</dl>
 	</li>
-</ul>
+	<li>
+		<dl>
+			<dt><a href='./11-directories'>find . -type d ! -name . | wc -l</a></dt>
+			<dd>Mostramos en la salida standar la cantidad de directorios y subdirectorios sin incluir el directorio actual,<code style="background-color: antiquewhite; padding : 3px; border-radius:5px">find .</code> busca en el directorio actual, <code style="background-color: antiquewhite; padding : 3px; border-radius:5px"> -type d </code>indica que solo buscará los del tipo directorio,<code style="background-color: antiquewhite; padding : 3px; border-radius:5px"> ! -name . </code> con este comando lo que le estamos pidiendo es que busque los que nombre sea distinto deldirectorio actual,por último usando <code style="background-color: antiquewhite; padding : 3px; border-radius:5px"> | wc -l </code>estamos redireccionando la salida del comando anteriora este comando para que nos devuelva el conte de las líneas encontradas.</dd> 
+		</dl>
+	</li>
+	
+ </ul>
