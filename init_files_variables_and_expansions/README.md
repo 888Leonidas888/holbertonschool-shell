@@ -48,5 +48,11 @@
     <dd>Para crear una variable global lo hacemos con el comando <code style="background-color: antiquewhite; padding : 3px; border-radius:5px"> export </code>  declarando el nombre de nuestra variable y seguido asignandole el valor, para eliminar esta variable debemos usar el comando <code style="background-color: antiquewhite; padding : 3px; border-radius:5px"> unset BEST </code>.</dd>
   </dl>
 </li>
+ <li>
+  <dl>
+    <dt><a href="./8-true_knowledge">echo $(($TRUEKNOWLEDGE+128))</a></dt>
+    <dd>Imprimimos el resultado de la suma de 128 mas el valor de la variable TRUEKNOWLEDGE<code style="background-color: antiquewhite; padding : 3px; border-radius:5px"> echo </code>para imprimir el resultado,el signo de dolar<code style="background-color: antiquewhite; padding : 3px; border-radius:5px"> $ </code>e s para mostrar el valor de la variable y los <code style="background-color: antiquewhite; padding : 3px; border-radius:5px"> $(()) </code> para realziar la operación que esta dentro de ella .</dd>
+  </dl>
+</li>
 
 </ul>
