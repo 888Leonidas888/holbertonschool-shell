@@ -60,5 +60,11 @@
     <dd>Imprimimos el resultado de la división de 2 variables<code style="background-color: antiquewhite; padding : 3px; border-radius:5px"> echo </code>para imprimir el resultado,el signo de dolar<code style="background-color: antiquewhite; padding : 3px; border-radius:5px"> $ </code>es para mostrar el valor de la variable y los <code style="background-color: antiquewhite; padding : 3px; border-radius:5px"> $(()) </code> para realizar la operación que esta dentro de ella .</dd>
   </dl>
 </li>
+ <li>
+  <dl>
+    <dt><a href="./10-love_exponent_breath">echo $((BREATH**LOVE))</a></dt>
+    <dd>Imprimimos el resultado de exponer el valor de nuestra variable BREATH a la LOVE<code style="background-color: antiquewhite; padding : 3px; border-radius:5px"> echo </code>para imprimir el resultado,el doble asterísco <code style="background-color: antiquewhite; padding : 3px; border-radius:5px"> ** </code>se usa para trabajar con exponentes.</dd>
+  </dl>
+</li>
 
 </ul>
