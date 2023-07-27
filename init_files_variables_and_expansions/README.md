@@ -36,5 +36,11 @@
     <dd>Con este comando listamos las variables globales,locales y funciones.</dd>
   </dl>
 </li>
+ <li>
+  <dl>
+    <dt><a href="./6-create_local_variable">BEST=School</a></dt>
+    <dd>Para crear una variable local lo hacemos declarando el nombre de nuestra variable y seguido asignandole el valor, para eliminar esta variable debemos usar el comando <code style="background-color: antiquewhite; padding : 3px; border-radius:5px"> unset BEST </code>.</dd>
+  </dl>
+</li>
 
 </ul>
