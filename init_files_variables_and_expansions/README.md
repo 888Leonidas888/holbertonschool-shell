@@ -24,5 +24,10 @@
         <dd>Con esta instrucción imprimimos la cantidad de ditectorios que hay en al PATH.<code style="background-color: antiquewhite; padding : 3px; border-radius:5px"> echo $PATH </code> para mostrar los directorios que estan almacenados en la variable de entorno,luego con el pipe le pasamos la salida a la siguiente instrucción<code style="background-color: antiquewhite; padding : 3px; border-radius:5px"> tr : \\n </code> esta se encarga de reemplazar los <code style="background-color: antiquewhite; padding : 3px; border-radius:5px"> : </code> por un salto de línea y por ultimo usamos el pipe para enviar la salida a la siguiente instrucción,<code style="background-color: antiquewhite; padding : 3px; border-radius:5px"> wc -l </code> esta se encarga de contar las líneas devueltas.</dd>
     </dl>
 </li>
-
+<li>
+    <dl>
+        <dt><a herf="./4-global_variables">env | sort </a></dt>
+        <dd> Con esta instrucción mostramos las variables de entorno y las ordenamos.<code style="background-color: antiquewhite; padding : 3px; border-radius:5px"> env </code> nos sirve para mostrar los variables de entorno<code style="background-color: antiquewhite; padding : 3px; border-radius:5px"> sort </code> <code style="background-color: antiquewhite; padding : 3px; border-radius:5px"> este comando no sirve para ordenar el contenido.</dd>
+    </dl>
+</li>
 </ul>
