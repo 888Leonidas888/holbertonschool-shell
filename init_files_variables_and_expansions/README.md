@@ -42,5 +42,11 @@
     <dd>Para crear una variable local lo hacemos declarando el nombre de nuestra variable y seguido asignandole el valor, para eliminar esta variable debemos usar el comando <code style="background-color: antiquewhite; padding : 3px; border-radius:5px"> unset BEST </code>.</dd>
   </dl>
 </li>
+ <li>
+  <dl>
+    <dt><a href="./7-create_global_variable">export BEST=School</a></dt>
+    <dd>Para crear una variable global lo hacemos con el comando <code style="background-color: antiquewhite; padding : 3px; border-radius:5px"> export </code>  declarando el nombre de nuestra variable y seguido asignandole el valor, para eliminar esta variable debemos usar el comando <code style="background-color: antiquewhite; padding : 3px; border-radius:5px"> unset BEST </code>.</dd>
+  </dl>
+</li>
 
 </ul>
