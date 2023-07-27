@@ -8,8 +8,15 @@
 </li>
 <li>
     <dl>
-        <dt><a herf="./0-alias">echo "hello $USER"</a></dt>
+        <dt><a herf="./1-hello_you">echo "hello $USER"</a></dt>
         <dd>El comando <code style="background-color: antiquewhite; padding : 3px; border-radius:5px"> echo </code> imprime por pantalla <strong>hello root</strong> suponiendo que el usuario actual sea ese,<code style="background-color: antiquewhite; padding : 3px; border-radius:5px"> $USER </code> si mostramos esta variable de entorno,nos dará el usuario actual.</dd>
     </dl>
 </li>
+<li>
+    <dl>
+        <dt><a herf="./2-path">export PATH=$PATH:/action</a></dt>
+        <dd>El comando <code style="background-color: antiquewhite; padding : 3px; border-radius:5px"> export </code> se usa para definir y exportar variables,para este caso estamos agregando un nuevo directorio llamado <strong> /action </strong>a la variable<code style="background-color: antiquewhite; padding : 3px; border-radius:5px"> PATH </code>.</dd>
+    </dl>
+</li>
+
 </ul>
