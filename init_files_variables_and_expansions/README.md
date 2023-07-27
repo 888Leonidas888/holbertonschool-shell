@@ -27,7 +27,7 @@
 <li>
     <dl>
         <dt><a href="./4-global_variables">env | sort </a></dt>
-        <dd> Con esta instrucción mostramos las variables de entorno y las ordenamos.<code style="background-color: antiquewhite; padding : 3px; border-radius:5px"> env </code> nos sirve para mostrar los variables de entorno<code style="background-color: antiquewhite; padding : 3px; border-radius:5px"> sort </code> <code style="background-color: antiquewhite; padding : 3px; border-radius:5px"> este comando no sirve para ordenar el contenido.</dd>
+        <dd> Con esta instrucción mostramos las variables de entorno y las ordenamos.<code style="background-color: antiquewhite; padding : 3px; border-radius:5px"> env </code> nos sirve para mostrar los variables de entorno<code style="background-color: antiquewhite; padding : 3px; border-radius:5px"> sort </code>este comando no sirve para ordenar el contenido.</dd>
     </dl>
 </li>
 <li>
