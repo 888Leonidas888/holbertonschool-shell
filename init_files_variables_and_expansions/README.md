@@ -54,5 +54,11 @@
     <dd>Imprimimos el resultado de la suma de 128 mas el valor de la variable TRUEKNOWLEDGE<code style="background-color: antiquewhite; padding : 3px; border-radius:5px"> echo </code>para imprimir el resultado,el signo de dolar<code style="background-color: antiquewhite; padding : 3px; border-radius:5px"> $ </code>e s para mostrar el valor de la variable y los <code style="background-color: antiquewhite; padding : 3px; border-radius:5px"> $(()) </code> para realziar la operación que esta dentro de ella .</dd>
   </dl>
 </li>
+ <li>
+  <dl>
+    <dt><a href="./9-divide_and_rule">echo $(($POWER/$DIVIDE))</a></dt>
+    <dd>Imprimimos el resultado de la división de 2 variables<code style="background-color: antiquewhite; padding : 3px; border-radius:5px"> echo </code>para imprimir el resultado,el signo de dolar<code style="background-color: antiquewhite; padding : 3px; border-radius:5px"> $ </code>es para mostrar el valor de la variable y los <code style="background-color: antiquewhite; padding : 3px; border-radius:5px"> $(()) </code> para realizar la operación que esta dentro de ella .</dd>
+  </dl>
+</li>
 
 </ul>
