@@ -18,5 +18,11 @@
         <dd>El comando <code style="background-color: antiquewhite; padding : 3px; border-radius:5px"> export </code> se usa para definir y exportar variables,para este caso estamos agregando un nuevo directorio llamado <strong> /action </strong>a la variable<code style="background-color: antiquewhite; padding : 3px; border-radius:5px"> PATH </code>.</dd>
     </dl>
 </li>
+<li>
+    <dl>
+        <dt><a herf="./3-paths">echo $PATH | tr : \\n | wc -l </a></dt>
+        <dd>Con esta instrucción imprimimos la cantidad de ditectorios que hay en al PATH.<code style="background-color: antiquewhite; padding : 3px; border-radius:5px"> echo $PATH </code> para mostrar los directorios que estan almacenados en la variable de entorno,luego con el pipe le pasamos la salida a la siguiente instrucción<code style="background-color: antiquewhite; padding : 3px; border-radius:5px"> tr : \\n </code> esta se encarga de reemplazar los <code style="background-color: antiquewhite; padding : 3px; border-radius:5px"> : </code> por un salto de línea y por ultimo usamos el pipe para enviar la salida a la siguiente instrucción,<code style="background-color: antiquewhite; padding : 3px; border-radius:5px"> wc -l </code> esta se encarga de contar las líneas devueltas.</dd>
+    </dl>
+</li>
 
 </ul>
