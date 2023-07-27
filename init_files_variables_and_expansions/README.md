@@ -8,8 +8,8 @@
 </li>
 <li>
     <dl>
-        <dt><a herf="./0-alias">echo "hello $(whoami)"</a></dt>
-        <dd>El comando <code style="background-color: antiquewhite; padding : 3px; border-radius:5px"> echo </code> imprime por pantalla <strong>hello root</strong> suponiendo que el usuario actual sea ese,<code style="background-color: antiquewhite; padding : 3px; border-radius:5px"> whoami </code>por si solo nos retorna el usuario actual pero como lo estamos escribiendo como argumento del comando <code style="background-color: antiquewhite; padding : 3px; border-radius:5px"> echo </code> lo encerramos de esta forma<code style="background-color: antiquewhite; padding : 3px; border-radius:5px" >$(whoami) </code>.</dd>
+        <dt><a herf="./0-alias">echo "hello $USER"</a></dt>
+        <dd>El comando <code style="background-color: antiquewhite; padding : 3px; border-radius:5px"> echo </code> imprime por pantalla <strong>hello root</strong> suponiendo que el usuario actual sea ese,<code style="background-color: antiquewhite; padding : 3px; border-radius:5px"> $USER </code> si mostramos esta variable de entorno,nos dará el usuario actual.</dd>
     </dl>
 </li>
 </ul>
